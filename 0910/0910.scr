@@ -1,0 +1,115 @@
+Script started on 2019-09-10 09:40:56+0900
+]0;system@DESKTOP-0RH6NSA: ~/sp/0910[01;32msystem@DESKTOP-0RH6NSA[00m:[01;34m~/sp/0910[00m$ history
+    1  sudo apt gcc
+    2  gcc
+    3  sudo apt install gcc
+    4  ll
+    5  mkdir sp
+    6  cd sp
+    7  ll
+    8  rmdir sp
+    9  rmdir sp -r
+   10  cd ~
+   11  mkdir sp
+   12  cd sp
+   13  cd ~
+   14  ls
+   15  ll
+   16  vi hello.c
+   17  ll
+   18  vi hello.c
+   19  cat hello.c
+   20  gcc -o hello.c
+   21  sudo apt install gcc
+   22  ll
+   23  mkdir 0903
+   24  ll
+   25  mv hello.c
+   26  mv hello.c 0903
+   27  cd 0903
+   28  ll
+   29  pwd
+   30  finger
+   31  w
+   32  top
+   33  gcc -o hello.c
+   34  man gcc
+   35  sudo apt-get gcc
+   36  sudo apt-get update
+   37  gcc -o hello.c
+   38  su
+   39  gcc apt-get upgrade
+   40  sudo password root
+   41  sudo passwd root
+   42  su
+   43  sudo pass root
+   44  sudo passwd root
+   45  su
+   46  cd ~
+   47  pwd
+   48  ll
+   49  cd 0903
+   50  ll
+   51  gcc -o hello.c
+   52  vi hello.c
+   53  gcc -o hello.c hello
+   54  gcc -o hello hello.c
+   55  hello
+   56  ./hello
+   57  vi hello.c
+   58  path
+   59  PATH
+   60  export PATH
+   61  hello
+   62  printenv
+   63  echo $path
+   64  echo $PATH
+   65  pwd
+   66  echo $PATH
+   67  PATH111=PATH
+   68  echo $PATH
+   69  echo $PATH111
+   70  PATH111=$PATH
+   71  echo $PATH111
+   72  cd ..
+   73  ll
+   74  mvdir -r 0903 sp
+   75  mvdir 0903 sp
+   76  ll
+   77  mv 0903 sp
+   78  ll
+   79  sp
+   80  ll
+   81  cd sp
+   82  ll
+   83  cd 0903
+   84  ll
+   85  alisa
+   86  alias
+   87  pwd
+   88  PATH=$PATH:/home/system/sp/0903
+   89  $PATH
+   90  printenv get $PATH
+   91  printenv $PATH
+   92  PATH
+   93  echo $PATH
+   94  pwd
+   95  hello
+   96  ehco $PATH | grep :.
+   97  ehco $PATH | grep :/.
+   98  ehco $PATH | grep :./
+   99  echo $PATH | grep :./
+  100  echo $PATH | grep ::
+  101  echo $PATH | grep :
+  102  echo $PATH | grep :.
+  103  echo $PATH | grep :./
+  104  echo $PATH | grep :/.
+  105  echo $PATH | grep :.
+  106  history
+]0;system@DESKTOP-0RH6NSA: ~/sp/0910[01;32msystem@DESKTOP-0RH6NSA[00m:[01;34m~/sp/0910[00m$ clear
+[3J[H[2J]0;system@DESKTOP-0RH6NSA: ~/sp/0910[01;32msystem@DESKTOP-0RH6NSA[00m:[01;34m~/sp/0910[00m$ es[Kxit5
+exit5: command not found
+]0;system@DESKTOP-0RH6NSA: ~/sp/0910[01;32msystem@DESKTOP-0RH6NSA[00m:[01;34m~/sp/0910[00m$ exit
+exit
+
+Script done on 2019-09-10 09:46:49+0900
