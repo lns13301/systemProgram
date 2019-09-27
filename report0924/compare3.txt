@@ -1,0 +1,4 @@
+Hello, nice to meet you!
+This is a sample code.
+If you want to check this file use "./hw4-5.c compare3.txt".
+Thank you.
