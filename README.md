@@ -32,3 +32,9 @@
   - lseek(fd, -sizeof(record), SEKK_CUR); // 전 레코드 시작위치로
 - RAM (랜덤 접근)
 - 과제 교제 131p 4, 5번
+
+## 1001
+- blocking, non-blocking
+- synchronize, Asynchronize
+- inode
+  - 디스크의 원리와 관련된 학습(Excel 이용)
