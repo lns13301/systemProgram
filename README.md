@@ -38,3 +38,8 @@
 - synchronize, Asynchronize
 - inode
   - 디스크의 원리와 관련된 학습(Excel 이용)
+  
+## 1008
+- fcntl을 이용한 구조체 사용으로 lock하는 코드 연습
+- lockf를 이용한 구조체를 사용하지 않는 unlock 코드 연습
+- ext4, port 관련된 내용 학습
