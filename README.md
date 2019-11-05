@@ -50,3 +50,7 @@
 
 ## 1029
 - shell script로 다양한 명령어 제작 학습
+
+## 1105
+- sleep소스로 bg에서 kill 시키는 법 학습
+- exit처리 시 static 함수로 숨겨진 작동을 하는 법을 학습
