@@ -54,3 +54,10 @@
 ## 1105
 - sleep소스로 bg에서 kill 시키는 법 학습
 - exit처리 시 static 함수로 숨겨진 작동을 하는 법을 학습
+
+## 1112
+ - fork로 부모프로세스 코드를 자식프로세스에 복사하고, 리턴 값이 어떻게 되는지 학습
+ - wait를 통해 &status값을 받아 처리하는 방식 학습
+ - waitpid 학습
+ - init, systemD 발표함
+ - 이외에 static, process, context switching, daemon 발표 진행
