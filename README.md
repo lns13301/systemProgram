@@ -61,3 +61,7 @@
  - waitpid 학습
  - init, systemD 발표함
  - 이외에 static, process, context switching, daemon 발표 진행
+
+## 1119
+  - 메모리 영역 학습
+  - 동적 메모리, 정적 메모리, 전역변수 할당 방식 학습
